@@ -61,20 +61,23 @@
 * npm or yarn
 * A Supabase project instance
 
+---
+
 ### Local Setup
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/edutrack.git](https://github.com/your-username/edutrack.git)
-   cd edutrack
+   git clone [https://github.com/TasnimHaque123/EduTrack--Based-Smart-Study-Planner.git](https://github.com/TasnimHaque123/EduTrack--Based-Smart-Study-Planner.git)
+   cd EduTrack--Based-Smart-Study-Planner
 
 ---
 ### Install dependencies:
 
 npm install
 
-### Configure Environment Variables:
+---
 
+### Configure Environment Variables:
 #### Create a .env.local file in the root directory:
 
 
@@ -82,6 +85,7 @@ NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
 
+---
 
 ### Run the development server:
 
@@ -90,6 +94,7 @@ npm run dev
 Open http://localhost:3000 in your browser.
 
 ---
+
 ## 👥 Contributors
 
 * [Tasnim Haque Ankhi](https://github.com/TasnimHaque123) 
